@@ -34,4 +34,4 @@ Custom skills, agents, and hooks for Claude Code — delivered via Nix Home Mana
 
 ---
 
-M.Sc. Computer Science and Software Engineering. Open to backend or systems engineering roles — reach out on [LinkedIn](https://www.linkedin.com/in/samuel-masak/).
+M.Sc. Computer Science and Software Engineering. Open to backend or systems engineering roles.
