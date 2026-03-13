@@ -5,7 +5,7 @@ reproducible from scratch. The kind of setup where a reinstall is boring on purp
 I write Rust for anything performance-sensitive and dabble in WebAssembly when I
 want to bring compute into the browser. M.Sc. Computer Science and Software Engineering.
 
-**NixOS · Kubernetes · Rust · SvelteKit · Python**
+**NixOS · Kubernetes · Rust · SvelteKit · Python** 
 
 ---
 
